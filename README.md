@@ -19,3 +19,7 @@ Seu objetivo é implementar o layout de um carrinho de compras proposto pela ima
 - Qualidade do código
 - Funcionalidades
 - Fidelidade do layout
+
+
+
+layout criado por [Giga Tamarashvili](https://dribbble.com/Tamarashvili)
